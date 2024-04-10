@@ -1,8 +1,3 @@
-Sure, here is the updated content for your README.md file:
-
-```markdown
-# README.md
-
 ## PwdMgr.py
 
 This Python script is used to change the password of a user on a Windows system.
